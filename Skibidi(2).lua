@@ -125,3 +125,5 @@ Tabs.Main3:AddButton({
     Description="script tổng hợp đầu tiên của linhmaxmu",
     Callback=function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/loigui/Fof/refs/heads/main/scripttonghop.lua.lua"))()
+		end
+	})
